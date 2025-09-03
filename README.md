@@ -109,5 +109,19 @@ For questions or feedback, feel free to create an issue or reach out to [Vikash8
 ```
 Happy commuting!
 ```
+## Landing page 
+<img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/6f3e1184-5d6a-49ee-ad23-c64e2d64f480" />
 
+## Register page
+<img width="1917" height="873" alt="image" src="https://github.com/user-attachments/assets/d0f5b81f-342a-4951-8dc6-19fe1d487c24" />
+
+## LOG-IN PAGE
 <img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/8dcb3fdb-b4f6-41c5-b85c-00df4c917b31" />
+
+## dashboard
+
+<img width="1917" height="926" alt="image" src="https://github.com/user-attachments/assets/04147f13-35a2-4d44-a7dd-1d33afcaeff5" />
+<img width="1905" height="939" alt="image" src="https://github.com/user-attachments/assets/9969e86f-f99e-43fe-b5f0-db987e46b4d0" />
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/0f5bcc65-6912-432a-ba03-3c671782d53e" />
+
+
